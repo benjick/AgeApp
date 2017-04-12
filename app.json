@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "15.0.0",
+    "name": "AgeApp",
+    "slug": "age",
+    "description": "How old am I?",
+    "orientation": "portrait",
+    "loading": {
+      "hideExponentText": true
+    }
+  }
+}
