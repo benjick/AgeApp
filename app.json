@@ -1,6 +1,6 @@
 {
   "expo": {
-    "sdkVersion": "15.0.0",
+    "sdkVersion": "17.0.0",
     "name": "AgeApp",
     "slug": "age",
     "description": "How old am I?",
